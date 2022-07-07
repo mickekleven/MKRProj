@@ -2,6 +2,6 @@
 {
     public class Test
     {        
-        public int TestProp { get; set; }
+        public int TestProp2 { get; set; }
     }
 }
