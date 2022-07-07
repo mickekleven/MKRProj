@@ -20,6 +20,9 @@ namespace MKRProj.Controllers
 
         public IActionResult Privacy()
         {
+
+            //Testing
+
             return View();
         }
 
